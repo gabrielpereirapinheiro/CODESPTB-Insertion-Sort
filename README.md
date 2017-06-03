@@ -1,4 +1,4 @@
-## Developers
+## Developer
 - GABRIEL PEREIRA PINHEIRO
 ### Email
 - gabriel.pereira.pinheiro@gmail.com
@@ -6,9 +6,9 @@
 _________________________________________________________________________________________________________________________________________
 ## Fuction
 
-### SPOJ SOLUCTIONS :
+### SPOJ SOLUCTION :
 
-The files ```quicksort.c```  and ```radixsort.c``` are two differents soluctions in C programe language to problem TSORT - Turbo Sort on Sphere Online Judge ( SPOJ ).
+The file ```insertion.c``` is a soluction in C programe language to problem CODESPTB - Insertion Sort on Sphere Online Judge ( SPOJ ).
 
 
 [TSORT problem](http://www.spoj.com/problems/CODESPTB/)
