@@ -8,8 +8,8 @@ ________________________________________________________________________________
 
 ### SPOJ SOLUCTION :
 
-The file ```insertion.c``` is a soluction in C programe language to problem CODESPTB - Insertion Sort on Sphere Online Judge ( SPOJ ).
+The file ```insertion.c``` is a soluction in C programe language to problem CODESPTB - Insertion Sort on the site Sphere Online Judge ( SPOJ ).
 
 
-[TSORT problem](http://www.spoj.com/problems/CODESPTB/)
+[CODESPTB](http://www.spoj.com/problems/CODESPTB/)
 
